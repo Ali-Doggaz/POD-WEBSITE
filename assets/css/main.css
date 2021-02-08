@@ -7,6 +7,12 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+#people-heading {
+	animation: 3s ease-out 0s 1 fadein forwards;
+	opacity: 0;
+	text-align: center;
+}
+
 @-moz-keyframes spinner {
 	0% {
 		-moz-transform: rotate(0deg);
